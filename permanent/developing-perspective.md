@@ -2,7 +2,7 @@
 tags: perspective, ideation, starting, decision-making
 ---
 
-# Developing Perspective
+## Developing Perspective
 
 - Perspective is the primary means of creating a successful business.
 - Most business ideas are bad, not because the founders are stupid, but because
@@ -10,6 +10,17 @@ tags: perspective, ideation, starting, decision-making
 - People want to skip the steps that develop perspective. These steps often
   include working for someone else, doing things you don't want to do, doing
   things that "don't scale", etc.
+- If you can't see your users in their struggle and circumstances, then it is
+  unlikely you will be able to accurately serve them with a great product
+
+## Misleading Signals
+
+- If you can't see users in their struggle, then you will likely take
+  information from confused sources
+  - press and media discussing trends based on what will create readers instead
+    of natural market dynamics
+  - competitors with confused products and poor insights
+  - funding and money raised from investors
 
 [[quotes-bezos-perspective]]
 
@@ -37,3 +48,7 @@ tags: perspective, ideation, starting, decision-making
   many problems without ideal solutions
 - once industries have existed for a long time, often the low hanging fruit is
   off the trees.
+
+## Reference
+
+- Jung relates that perspective and pain are the same. [[jung-jung-growth-pain]]

@@ -9,6 +9,12 @@ tags: darwin, project
 To add the additional features and marketing and flows to Darwin to allow it to
 grow naturally and convert paying users.
 
+## ideas
+
+- Video feedback and testimonials
+  - Trustpilot like systems? Publicly embedding videos?
+- Position around: Experience monitoring
+
 ## General Concepts
 
 - Need to add a growth channel, something that allows a positive feedback cycle
@@ -27,3 +33,8 @@ grow naturally and convert paying users.
   [[book-they-ask-you-answer]]
 - During sign up, show a start trial page as well as an "invite your team" page
   after.
+
+## Follow Up
+
+- send follow up email w survey or WhatsApp number ... Question: what you
+  looking for? How can we help you make progress?

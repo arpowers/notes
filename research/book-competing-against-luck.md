@@ -67,7 +67,41 @@ is custom tailored to their needs and serves them better than other offerings.
 
 - Everything you do in your product platform should signal that "we get you" to
   the customer. This can be done again by understanding the struggle.
+- What are the social, functional, and emotional dimensions of the struggle and
+  circumstance?
 
 ## perspective
 
 - [[quotes-bezos-perspective]]
+
+- Sony founder Akio Morita actually advised against market research, urging
+  instead to “carefully watch how people live, get an intuitive Sense of how
+  they live and then go with it"
+- When looking for jobs, it all depends on perspective. What you are looking for
+  and how's you piece your observations together
+- Look for negative jobs, things people want to avoid.
+- Compensating behaviors are often the sign of a job and innovation opporunity,
+  but you will only see them if you are immersed in context
+- Why are users just not using something like a competitor? What is the problem
+  with those solutions they makes them not want to use them?
+- Innovators need to develop a heat-seaking sense for the anxiety, stress and
+  struggle associated with change. E.g. hiring a new product or taking the first
+  step to do so.
+- What product or behavior will need to get fired for a new product to get
+  hired? How happy is the user about firing this approach?
+- Is the new product going to be good enough or distributed in a way that allows
+  for transition?
+
+## Innovation
+
+- Innovation can be done by simply reducing "blocking forces"
+- To innovate is 3 steps:
+  - uncover the job to be done
+
+## Experiences
+
+- Products succeed based on experiences not features
+- When planning a specification, ask: what do i need to do to create the "right"
+  experiences and to solve this job well (relating to the struggle nad
+  circumstance)
+- "People don't buy a drill, they buy holes in the wall."
