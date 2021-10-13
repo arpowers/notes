@@ -15,4 +15,7 @@ to do.
 Passive information, such as qualitative observation, is subtle and disruptive
 in nature. Specifically _because_ it isn't generated actively.
 
+Active data encourages mismatches also because certain things might work, even
+if not optimized. Active data helps you find the "local maximum".
+
 [[book-competing-against-luck]]
